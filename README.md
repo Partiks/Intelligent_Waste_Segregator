@@ -8,4 +8,4 @@ The whole Node-RED flow is available in file IWS FLOW.json that anyone can impor
 ## YouTube Demo: https://www.youtube.com/playlist?list=PLY0iphzPgzGL-QwMpQGF93zOPtqN5SB3v
 
 ### IWS Main Flow:
-![IWS Main Flow screenshot](https://github.com/Partiks/Intelligent_Waste_Segregator/blob/master/IWS%20Flow-1.png)
+![IWS Main Flow screenshot](https://github.com/Partiks/Intelligent_Waste_Segregator/blob/master/Pictures/IWS%20Flow-1.png)
